@@ -8,8 +8,13 @@ $dizi = array
 
 foreach($dizi as $veri)
 {
-    echo $veri;
+    echo $veri.'<br>';
 }
+
+print_r($dizi);
+
+
+
 ?>
 
 
