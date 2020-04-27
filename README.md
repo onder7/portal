@@ -1,2 +1,2 @@
 # portal
-vk_portal
+Önder Mönder
