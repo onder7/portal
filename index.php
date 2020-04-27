@@ -6,6 +6,10 @@ $dizi = array
     'armut'
 );
 
-
+foreach($dizi as $veri)
+{
+    echo $veri;
+}
 ?>
+
 
