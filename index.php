@@ -1,7 +1,11 @@
 <?php
 
-echo 'S.A.';
+$dizi = array
+(
+    'elma',
+    'armut'
+);
 
-echo 'A.S';
+
 ?>
 
